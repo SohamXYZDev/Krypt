@@ -1,5 +1,5 @@
 # Krypt - Crypto Portfolio Tracker
- [Catgegory Prize Winner](https://devpost.com/software/krypt-sfoz0r) in [Boost Hacks 2024](https://boost-hacks.devpost.com/)
+ [Category Prize Winner](https://devpost.com/software/krypt-sfoz0r) in [Boost Hacks 2024](https://boost-hacks.devpost.com/)
  "Best Blockchain Hack"
 
 ## Overview
